@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "worldedit-addon-v2 Behaviors",
+    "description": "worldedit functions",
+    "uuid": "c6a12563-8e62-4c26-b5a4-196a50492704",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for worldedit-addon-v2",
+      "type": "data",
+      "uuid": "e592d1e3-9af3-4721-9707-839560be62d8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
